@@ -91,7 +91,7 @@
         layer_MAC_FN {
             bindings = <
  &kp F1  &kp F2  &kp F3         &kp F4         &kp F5  &kp F6            &trans                                                         &trans  &kp F7      &kp F8        &kp F9        &kp F10   &kp F11  &kp F12
- &trans  &trans  &trans         &trans         &trans  &trans            &trans                                                         &trans  &trans      &trans        &trans  &kp LG(SPACE)  &kp C_RW   &trans
+ &trans  &trans  &trans         &trans         &trans  &trans            &trans                                                         &trans  &trans      &trans        &trans  &kp LG(SPACE)  &kp C_PP   &trans
  &trans  &trans  &trans         &trans  &kp LG(LC(F))  &trans            &trans  &trans  &trans                  &trans  &trans         &trans  &trans      &trans        &trans         &trans    &trans   &trans
  &trans  &trans  &trans  &kp LG(LA(C))         &trans  &trans                            &trans                  &trans                         &trans      &trans        &trans         &trans    &trans   &trans
  &trans  &trans  &trans   &kp LC(LEFT)  &kp LC(RIGHT)                    &trans  &trans  &trans                  &trans  &trans  &kp LC(SPACE)          &kp LC(UP)  &kp LC(DOWN)         &trans    &trans   &trans
